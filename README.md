@@ -9,6 +9,6 @@
 
 ## Блок схема к заданию: 
 
-![блок схема к заданию](image.jpg)
+
 ![блок схема к заданию](https://github.com/CallMeByYourUsername/Test/blob/main/Image.jpg)
 
